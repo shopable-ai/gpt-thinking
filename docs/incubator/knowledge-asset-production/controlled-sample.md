@@ -2,6 +2,8 @@
 
 日期：2026-09-22。性质：研究工件，未对外发布、未销售、不是已完成的Excel产品。
 
+> 2026-09-22 细任务反向核验后，本文件继续作为“重复 / 冲突 / schema 输入契约”的离线逻辑基线，**不再代表当前首个MVP的完整产品规格**。当前MVP已收窄为“新增周期文件后的刷新与结果验收”，见 [research-report.md](research-report.md) 第十七节；Excel GUI / Power Query刷新、回退与第二人交接仍未测试。
+
 ## 1. 原视频来源门槛
 
 候选 `https://www.youtube.com/watch?v=uhJJgc-0iTQ` 的本次网页读取只取得标题“Building more effective AI agents”等极少文本。未取得原始字幕（完整或部分）、音频、画面、时间轴、PPT、代码和有效再利用授权。没有运行下载器或ASR，因此不能声称原视频无字幕，或某转写工具已实测失败。
